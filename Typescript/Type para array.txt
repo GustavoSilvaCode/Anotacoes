@@ -1,0 +1,23 @@
+Caso só tenha strings na array, como no exemplo:
+
+let nomes = ['andre','gustavo','caua','felipe'];
+
+Com tsc ficará assim:
+let nomes: string[] = ['andre','gustavo','caua','felipe'];
+
+
+
+
+
+
+
+Caso só tenha number na array, como no exemplo:
+
+let idades = [10, 20, 30, 40, 50];
+
+
+Com tsc ficará assim:
+let idades: number[] = [10, 20, 30, 40, 50];
+
+
+EM CASOS DE EMERGENCIA UTILIZE O TYPE ANY;

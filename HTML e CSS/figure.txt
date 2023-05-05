@@ -1,0 +1,10 @@
+Tag utilizada ao adicionarmos uma imagem na pagina
+
+
+<figure>
+
+	<img src= "link da imagem" />
+	
+	<figacaption> descrição da imagem </figacaption>
+
+</figure>

@@ -1,0 +1,5 @@
+Utilizar dentro da tag input
+
+Placeholder = "nome a ser exibido"
+
+<input type="text" name= "nome" placeholder = "Insira seu nome"/>/>

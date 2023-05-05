@@ -1,0 +1,3 @@
+Deletar itens do banco de dados.
+
+DELETE FROM produtos WHERE id = 12;

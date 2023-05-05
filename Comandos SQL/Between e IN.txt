@@ -1,0 +1,6 @@
+Between = busca valores entre a e b ( substitui o AND ).
+SELECT * FROM produtos WHERE estoque BETWEEN 5 AND 10;
+
+
+IN = busca os valores dentro do espaço selecionado. (substitui o OR).
+SELECT * FROM produtos WHERE id_fornecedor IN (1,3,5);

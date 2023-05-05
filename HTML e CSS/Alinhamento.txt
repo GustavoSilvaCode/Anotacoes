@@ -1,0 +1,11 @@
+>>>>>>>> alinhar itens no meio da linha ( imagens ou formas dentro da div )
+
+display:flex;
+
+justify-content: center;
+
+
+
+>>>>>>>> alinhar itens no meio da tela:
+
+aling-itens: center;

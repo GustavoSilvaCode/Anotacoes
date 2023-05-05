@@ -1,0 +1,26 @@
+Acicione a tag box-shadow: distancia da sombra na horizontal  distancia da sombra na vertical  quantidade de esfumaçamento da sombra ;
+
+
+body{
+	margin:0px;
+
+}
+
+
+.exemplo{
+
+	width:150px;
+
+	height: 150px;
+	
+	background-color: red;	
+
+	box-shadow: 10px 10px #888888
+
+>> Valores positivos no box shadow fazem a sombra ficar para fora do elemento, valores negativos fazem a sombra ficar prada dentro do elemento.
+
+
+>> caso queira adicionar sompra em texto é necessário adicionar a a tag    tex-shadow: e seguir a mesma logica da teg box-shadow
+
+
+tex-shadow: 10px 10px #fff

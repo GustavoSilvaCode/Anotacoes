@@ -1,0 +1,27 @@
+Display flex >> faz com que o conteúdo dentro da div fique flexivel, um do lado do outro.
+
+Também é possivel mudar a direção em que os itens se alinhem com a tag flex-direction
+
+O comando flex: 1 significa que todos os itens serão divididos com o mesmo tamanho dentro do container.
+
+
+Exemplo:
+
+ .container{
+
+	display:flex;
+	flex-directoin:row ( para alinhas na horizontal) ou column( para alinhas na vertical);
+	background-color: red;
+	margin: 10px;
+}
+
+
+.container div{
+
+	flex: 1;
+	background-color: blue;
+	margin: 10px;
+	padding: 10ppx;x;
+	font-size:  
+
+}

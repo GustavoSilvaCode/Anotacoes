@@ -1,0 +1,40 @@
+O QUE É A INTERNET?
+É a a troca de informações entre um computador e outro. Interligados por cabos.
+
+O QUE É HTTP/HTTP?
+Local de busca do arquivo. É como se o arquivo estivesse em uma planilha grande e você quisesse filtar as informações para achar o arquivo.
+
+DIFERENÇA ENTRE HTTP E HTTPS
+
+http://www.b7web.com.br  >>>>>>PORTA 80>>>>>>> A busca da informação é realizada e a troca de informações é feita normalmente.
+https://www.b7web.com.br >>>>>>PORTA 443>>>>>>> A busca de informação é realizada, mas também ocorre a criptografia das informações para maior segurança durante a troca de informações.
+
+COMO FUNCIONAM OS NAVEGADORES (CHROME, IDGE, MOZILA)?
+Os navegadores são responsáveis por montar a estrutura visual da página com as informações recebidas dos servidores.
+
+DNS Transforma IPS (números) em palavras para facilitar a busca de informações. 
+Exemplo: Se eu quiser acessar o anihub, digito anihub.com.br no navegador, mas meu pc busca pelo IP 103.224.182.242,
+o DNS atua como um google tradutor kkkk
+
+DOMINIOS
+
+b7web.com.br
+
+SUBDOMINIOS
+
+www.b7web.com.br
+alunos.b7web.com.br
+
+
+REGISTROS DE DOMINIO SÃO FEITOS NA PAGINA REGISTRO.BR
+
+
+HOSPEDAGENS E SERVIDORES
+
+- Hospedagem compartilhada >>>> O servidor que contém informações de vários clientes diferentes. Se o servidor de um dos clientes der problema todos serão afetador.
+
+-Servidor Dedicado         >>>> Um servidor exclusivo para um cliente
+
+-Vps                       >>>> Funciona da mesma forma da hospedagem compartilhada, porém com menos clientes e se houver algum problema com um dos clientes os outros não serão afetados.
+
+-Cloud                     >>>> Similar ao Vps, porém com mais flexibilidade.

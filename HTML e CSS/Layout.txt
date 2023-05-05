@@ -1,0 +1,33 @@
+Tipos de tamanho utilizados para Layout Adaptativo
+320
+480
+760
+960
+1200
+1600
+
+Para habilitar a responsividade é necessário utilizar o código a seguir na aba head
+
+
+<meta name="viewport" content="width=device-width, user_scalable=no">
+
+No css adicionamos
+
+@media (min-width: 400px) and{max-width: 700px) {
+
+}
+
+
+
+Ao utilizar o layout responsivo em imagens é necessário estruturar o código da seguinte maneira, dentro do BODY.
+
+
+<picture> 
+
+<source media="(min-width:700px)" srcset="um outro link de imagem qualquer"/>
+
+<source media="(min-width:500px)" srcset="outro link de imagem qualquer"/>
+
+<img src="um link de imagem qualquer"/>
+
+</picture>

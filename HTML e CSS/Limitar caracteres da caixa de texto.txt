@@ -1,0 +1,10 @@
+>>Como limitar o numero de caracteres que podem ser escritos na caixa de texto
+
+>>Dentro do input adicionamos a tad maxlenght= "o limite de caracteres"
+
+
+>>Exemplo:
+
+<input type= "text" name="texto" maxlenght="6"/>
+
+No exemplo acima só é permitido 6 caracteres na caixa de texto

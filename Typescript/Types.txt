@@ -1,0 +1,39 @@
+Principais types no typescript.
+
+:string
+
+:number
+
+:boolean
+
+
+
+Vamos criar uma variavel!
+
+Sem tsc
+let nome = 'Gustavo';
+
+No typescript para evitar qualquer tipo de erro devemos adicionar o type da váriavel na hora da sua criação.  Esse código ficaria assim:
+
+Com tsc
+let nome: string = 'Gustavo';
+
+
+O mesmo conceito se aplica quando estamos falando de numeros. Ex
+
+Sem tsc
+let idade = 20;
+
+Com tsc
+let idade: number = 20;
+
+
+E também se for um boolean.
+
+Sem tsc
+let programador = true;
+
+Com tsc
+let programador: boolean = true;
+
+

@@ -1,0 +1,67 @@
+>>Tabelas
+
+>Tag = <table>
+
+TR = linhas
+
+TD = colunas
+
+Toda tabela tem um titulo e um corpo principal
+
+o titulo da tabela é indicado pela tag THEAD
+
+e o corpo da tabela é indicado pela tag TBODY
+
+Exemplo: Tabela com titulo, 3 linha e 3 colunas 
+
+<table>
+
+	<thead>
+	
+		<tr>
+			<th>...</th>
+
+			<th>...</th>
+
+			<th>...</th>
+		</tr>
+	
+	</thead>
+
+
+
+	<tbody>
+
+		<tr>
+			<td>...</td>
+
+			<td>...</td>
+
+			<td>...</td>
+		</tr>
+		
+
+
+		<tr>
+			<td>...</td>
+
+			<td>...</td>
+
+			<td>...</td>
+		</tr>
+
+
+
+		<tr>
+			<td>...</td>
+
+			<td>...</td>
+
+			<td>...</td>
+		</tr>
+	
+
+
+	</tbody>
+
+</table>

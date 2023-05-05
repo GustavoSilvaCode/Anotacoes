@@ -1,0 +1,90 @@
+Utilizado para gravas se os itens dentro delas são sting, number ou boolean.
+
+
+Ex sem usar type ou interface.
+}
+
+function resumo (usuario: {nome: string, idade:number}){
+	return `Olá ${usuario.nome}, você tem ${idade} anos`;
+}
+
+resumo({
+
+nome: 'Gustavo',
+idade: 20
+
+})
+
+-----------------------------------------------------------------
+
+O type ou a interface é utilizado para organizar o código e minimizar a digitação.
+
+Ex utilizando o type.
+
+
+type User = {
+	nome: string,
+	idade: number
+}
+
+function resumo (usuario: User){
+	return `Olá ${usuario.nome}, você tem ${idade} anos`;
+}
+
+resumo({
+
+nome: 'Gustavo',
+idade: 20
+
+})
+
+
+-------------------------------------------------------------
+
+Ex utilizando interface
+
+
+interface User{
+	nome: string,
+	idade: number
+}
+
+function resumo (usuario: User){
+	return `Olá ${usuario.nome}, você tem ${idade} anos`;
+}
+
+resumo({
+
+nome: 'Gustavo',
+idade: 20
+
+})
+
+-------------------------------------------------------------
+
+Diferença entre type e interface
+
+
+no type você não pode fazer isso:
+
+
+type Compras ={
+
+	itens: string
+}
+
+type Compras ={
+
+	preco: number
+}
+
+no type você não pode criar dois com o mesmo nome, tudo deve ser adicionado no primeiro. Ficando desse jeito:
+
+
+type Compras ={
+
+	itens: string,
+	preco: number
+}
+
+com o interface isso é possivel!

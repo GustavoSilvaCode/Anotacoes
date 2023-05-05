@@ -1,0 +1,16 @@
+Acordar 08:00
+Café da manhã 08:10
+Arrumar a casa 09:00
+Preparar o almoço 10:30
+Almoçar 11:30
+Descanso 12:00
+Estudar matérias da faculdade 13:00
+Estudar programação 15:00
+Estudar web design 17:00
+Preparar o jantar 19:00
+Jantar 20:00
+Descanso 20:30
+Atualizar meu blog 21:00
+Jogar Fifa ou assistir animes 22:00
+Dormir 00:00
+

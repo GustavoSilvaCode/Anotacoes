@@ -1,0 +1,22 @@
+Mesmo esquema do flexbox.
+
+
+Posicionar ao centro:
+
+.container{
+
+	display:grid;
+	
+	justify-content: center;
+
+}
+
+
+posicionar no meio na vertical:
+
+.container{
+
+	display:grid;
+	aling-content:center;
+
+}

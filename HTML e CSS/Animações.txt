@@ -1,0 +1,79 @@
+Digite no css
+
+@keyframes nome qualquer {
+
+	0% {background-color: blue;}
+
+	25% {background-color: green;}
+
+	50% {background-color: orange;}
+
+	75% {background-color: red;}
+
+	100% {background-color: black;}
+	
+
+}
+
+
+.exemplo{
+
+	animation-name: "nome qualquer";
+
+	animatoin-duration: 10s;
+}
+
+
+
+>> Caso você queira que o objeto se mova, é necessário adicionar o comando: position: absolute (na class)
+>> E adicionar a direção de movimento no @keyframe
+>> Assim como no exemplo abaixo
+
+
+@keyframes "nome qualquer" {
+
+	0% {background-color: blue; top:0px; left:0px;}
+
+	25% {background-color: green; top:0px; left:200px;}
+
+	50% {background-color: orange; top:200px; left:200px;}
+
+	75% {background-color: red; top:200px; left:0px;}
+
+	100% {background-color: black; top:0px; left:0px}
+	
+
+}
+
+
+.exemplo{
+
+	width:150px;
+
+	height: 150px;
+	
+	background-color: red;
+
+	position: absolute;
+
+	animation-name: "nome qualquer";
+
+	animatoin-duration: 10s; *****Tempo de duração da animação
+
+	animation-delay: 2s;  *****Esse é o tempo que demora para a animação começar
+	
+	animation-iteratoin-count: infinite; *****Esse é o numero de vezes que a animação se repete
+	
+	
+
+	
+
+	
+
+	
+
+
+
+	
+}
+

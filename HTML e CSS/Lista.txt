@@ -1,0 +1,35 @@
+>>> Tipos de Lista no HTML
+
+
+>>Lista ordenada: 1, 2, 3, 4, 5, ...
+
+>Tag:  ol
+
+
+>> Lista desordenada: . . . . . 
+>Tag: ul
+
+
+*Escrevendo "type=" também é possivel ver os tipos de formatação da lista.
+
+Exemplo de lista não ordenada:
+
+
+
+<dl>
+
+	<dt> Como fazer arroz </dt>
+
+	<dd> 
+	<ul>
+		<li> lavar o arroz </li>
+		<li> socar 2 dentes de alho </li>
+		<li> colocar óleo e os dentes de alho socados numa panela </li>
+		<li> Após o alho dourar, coloque o arroz dentro da panela </li>
+		<li> coloque 4 colos de água na panela </li>
+		<li> Adicione sal </li>
+		<li> Deixa a panela no fogo até a guá da panela sumir</li>
+		<li> Tá pronto </li>
+	</ul>
+	</dd>
+</dl>

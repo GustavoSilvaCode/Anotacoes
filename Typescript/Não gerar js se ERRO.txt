@@ -1,0 +1,4 @@
+tsc src/script.ts --notEmitOnError
+
+Com isso o arquivo js não será gerado até que o erro seja corrigido.
+

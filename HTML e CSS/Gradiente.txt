@@ -1,0 +1,16 @@
+Como adicionar gradiente
+
+adicione no css o comando
+
+
+background: blue 
+
+background: linear-gradiente(60deg,cor1, cor2)
+
+background: -moz-linear-gradiente(cor1, cor2)
+
+background:-o-linear-gradient(cor1, cor2)
+
+background:-webkit-linear-gradient(cor1, cor2)
+
+adicione todos esse comandos no css dentro do body ou de qualquer outra tag

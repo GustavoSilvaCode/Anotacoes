@@ -1,0 +1,8 @@
+SELECT * FROM produtos LIMIT 4; (Exibirá os primeiros 4 itens)
+
+SELECT * FROM produtos LIMIT 0,3;
+
+SELECT * FROM produtos ORDER BY preco DESC LIMIT 4;
+
+SELECT * FROM produtos ORDER BY preco ASC LIMIT 3;
+

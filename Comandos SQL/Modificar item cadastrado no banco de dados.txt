@@ -1,0 +1,11 @@
+COMANDOS:
+
+UPDATE = Local da modificação
+
+SET = modificação
+
+WHERE= onde ocorrerá a modificação
+
+EX:
+
+UPDATE usuarios SET nome = "Wilson" WHERE id = 8;

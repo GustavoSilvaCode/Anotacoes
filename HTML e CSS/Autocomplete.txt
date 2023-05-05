@@ -1,0 +1,4 @@
+Inserir dentro do input:
+
+>> autocomplete = "on"  para ativar
+>> autocomplete = "off" para desativar

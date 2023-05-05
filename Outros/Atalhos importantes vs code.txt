@@ -1,0 +1,7 @@
+Shift + alt + seta	Repete a linha
+
+
+CTRL + d			Seleciona itens que são iguais para editalos ao mesmo tempo
+
+
+CTRL + f			Pesquisa o item

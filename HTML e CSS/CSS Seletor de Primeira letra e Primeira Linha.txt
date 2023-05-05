@@ -1,0 +1,15 @@
+Para selecionar a PRIMEIRA LETRA de um paragrafo
+
+
+p::first-letter{
+
+	Configurações;
+}
+
+
+Para selecionar a PRIMEIRA LINHA de um paragrafo
+
+p::first-line{
+
+	Configurações;
+}

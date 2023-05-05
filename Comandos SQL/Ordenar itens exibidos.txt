@@ -1,0 +1,9 @@
+*Order By*
+Muda a posição dos itens na exibição do resultado.
+Podendo se exibidos de forma Ascendente ou Descendente
+
+Exemplo:
+SELECT * FROM produtos ORDER BY estoque ASC; (Ascendente)
+
+
+SELECT * FROM produtos ORDER BY estoque DESC; (Descendente)

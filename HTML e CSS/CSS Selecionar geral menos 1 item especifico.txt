@@ -1,0 +1,16 @@
+:not (item que quero que não seja alterado) {
+
+	Configurações;
+
+}
+
+
+
+Exemplo:
+
+
+:not(p){
+
+	Configurações;
+
+}

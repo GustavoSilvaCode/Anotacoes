@@ -1,0 +1,3 @@
+Soma os itens selecionados
+
+SELECT SUM(produtos) from produtos

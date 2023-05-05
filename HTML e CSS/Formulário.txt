@@ -1,0 +1,49 @@
+>> FORMULÁRIO <<
+
+> Tag: <form>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Após utiluzar a tag é preciso especificar o action e o method.
+
+
+Action = para onde o arquivo vai
+
+
+Method = método do transposte do arquivo, existem dois métodos GET e POST
+
+
+GET = As informações transportadas ficam visiveis na URL
+
+
+POST = As informações transportadas não ficam visiveis
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Exemplo:
+
+<form action= "pagina/login.html" method= "GET"> </form>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Outra tag essencial para a criação dos formulários é a tag INPUT
+
+input  = armazena as inforçãoes preenchidas no formulário
+
+É necessário digitar o tipo de input, utilizamos a tag "type" para isso.
+
+Os mais utilizados são o type= "text", digitar texto, e o type= "password" para digitar senha
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Exemplo:
+
+<form action= "pagina/login.html" method= "GET"> 
+
+<input type="text"/>
+
+</form>
+
+<form action= "pagina/login.html" method= "GET"> 
+
+<input type="password"/>
+
+</form>

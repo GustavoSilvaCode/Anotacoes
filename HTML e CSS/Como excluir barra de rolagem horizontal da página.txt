@@ -1,0 +1,15 @@
+Dentro do CSS você vai no BODY e escreve overflow-x=hidden;
+
+
+Exemplo:
+
+
+
+body{
+
+	overflow-x:hidden;
+
+}
+
+
+isso vai esconder todo conteudo que passa da largura do body

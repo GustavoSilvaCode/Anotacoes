@@ -1,0 +1,5 @@
+Tag HEADER = conteudo que fica no cabeçalho da página.
+
+Tag FOOTER = conteúdo de rodapé, informações sobre quem criou, data, contato, etc
+
+Tag NAV = onde ficam os menus da página.

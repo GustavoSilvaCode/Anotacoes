@@ -1,0 +1,11 @@
+o type entra ao lado do parametro
+
+EX:
+
+
+function letraMaiuscula(name: string){
+
+let primeiraLetra = name.charAT(0).toUpperCase();
+return primeiraLetra+name.subsrting(1);
+
+}

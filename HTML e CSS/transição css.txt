@@ -1,0 +1,4 @@
+>>Deixar transição do elemento mais suave
+>>Adicione na dentro da class:
+
+transition: all 1s linear;

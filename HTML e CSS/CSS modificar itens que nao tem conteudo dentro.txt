@@ -1,0 +1,22 @@
+utilizamos o   :empty
+
+supondo que temos a seguinte configuração.
+
+
+<div> Texto 1   </div
+
+
+<div>    </div
+
+
+<div> Textp 3  </div
+
+
+Para pintar a div que não possui conteudo adicionamos o seguinte comando no css
+
+
+div:empty{
+
+	Configurações;
+
+}

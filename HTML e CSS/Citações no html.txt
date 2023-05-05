@@ -1,0 +1,14 @@
+quando vamos adicionar uma citação dentro de uma frase, basta adicionar a tag <q> na citação
+
+Exemplo
+
+Durante uma entrevista tite comentou sobre as expectativas para a seleção brasileira na copa do mundo. "Nossa seleção está muito focada para a copa"
+
+
+no html ficaria assim:
+
+<blockquote cite= "link da citação">
+
+Durante uma entrevista tite comentou sobre as expectativas para a seleção brasileira na copa do mundo. <q>Nossa seleção está muito focada para a copa</q>
+
+</blockquote>

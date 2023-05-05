@@ -1,0 +1,17 @@
+Append adiciona um elemento no final
+
+Prepend adiciona um elemento no inicio
+
+Para adicionar um item novo a uma lista por exemplo.
+
+é necessário criar uma nova váriavel. Siga o exemplo abaixo
+
+function clicou(){
+    const modificador = document.querySelector('#teste');
+    const lista = modificador.querySelector('ul');
+
+    const add = document.createElement('li');
+    add.innerText = 'item adicionado';
+
+    lista.prepend (add)
+}

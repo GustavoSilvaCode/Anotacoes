@@ -1,0 +1,11 @@
+atributo data = armazena informações desejadas por mim para utilizar futuramente
+
+Exemplo
+
+
+<div data-name = "meuNome">  'André Gustavo' </div>
+
+
+Nesse caso, a string André Gustavo será armazenada.
+
+Quando eu utilizar o data-name meuNome, o valor que será exibido é André Gustavo

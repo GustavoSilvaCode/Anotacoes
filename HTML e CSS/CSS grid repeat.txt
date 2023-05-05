@@ -1,0 +1,18 @@
+O repeat é utilizado para repetir o comando.
+
+
+Estrutura:
+
+repeat(número de vezes que vai repetir o comando ,  o comando)
+
+Exemplo:
+
+.container{
+	
+	gird-template-columns: repear(auto-fil, 200px))
+
+}
+
+No exemplo acima o auto-fil significa que ele vai repatir colunas com 200px de largura até não caber mais no espaço da tela.
+
+Se eu colocasse um número, por exemplo 2, iria reepetir o comando 2 vezes, ou seja duas colunas tendo 200px de largura 

@@ -1,0 +1,5 @@
+Idéias para o Projeto Wolf>>
+
+Marcar amistosos: Eu posso crias um formulário, onde o outro time coloca o nome e o horário para o amistoso. Este formulario será enviado para uma página onde apenas o administrador do site terá acesso.
+
+Recrutamento: Outro formulário onde o jogador preenche os seguintes itens: Nome; Posição; Over; Disponibilidade de horário e Contato;

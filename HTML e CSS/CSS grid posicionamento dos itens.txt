@@ -1,0 +1,23 @@
+Para ordenar os conteudos dentro do container utilizamos os conceitos de start e end.
+
+
+	Exemplo:
+
+		.item-dentro-do-conteiner{
+
+			grid-column: a coluna onde o conteudo inicia  /  a coluna onde o conteudo termina.
+
+
+			grid-row: a linha onde o conteudo inicia  /  a linha onde o conteudo termina;
+	
+}
+
+
+
+.item-dentro-do-conteiner{
+
+			grid-column: 1  /  3;
+
+			grid-row:    1  /  3;
+	
+}

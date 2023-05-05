@@ -1,0 +1,5 @@
+Exibe a soma em linhas separadas
+
+EX:  
+
+SELECT SUM(estoque) AS estoque, id_fornecedor FROM produtos GROUP BY id_fornecedor;

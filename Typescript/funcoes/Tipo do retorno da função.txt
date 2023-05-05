@@ -1,0 +1,19 @@
+Numa função o type do retorno é especificado após os parametros.
+
+EX:
+
+
+function somar (n1: number, n2: number) local onde o type do retorno vai ser definido{
+
+	return n1 + n2;
+
+}
+
+
+Resultado:
+
+function somar (n1: number, n2: number): number{
+
+	return n1 + n2;
+
+}

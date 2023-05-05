@@ -1,0 +1,25 @@
+Junta duas tabelas
+
+INNER JOIN = retorna os itens quando as duas tabelas estiverem preenchidas de forma correta
+
+LEFT JOIN = retorna os itens mesmo de os registros não estiverem corretos
+
+RIGHT JOIN = retorna todos os itens da direita independente se tiver algum item da esquerda
+
+EX:
+
+SELECT 
+
+produtos.id, produtos.nome, produtos.preco, produtos.estoque, fornecedores.nome AS fornecedores
+
+FROM produtos 
+
+INNER JOIN fornecedores ON fornecedores.id = produtos.id_fornecedor;
+
+
+ou 
+
+SELECT 
+produtos.* fornecedores.nome AS fornecedores
+FROM produtos 
+INNER JOIN fornecedores ON fornecedores.id = produtos.id_fornecedor;

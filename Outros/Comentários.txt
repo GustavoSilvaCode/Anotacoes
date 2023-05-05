@@ -1,0 +1,7 @@
+no html               <--! o comentário -->
+
+
+no css                /* o comentário */
+
+
+no javascript         // o comentário 

@@ -1,0 +1,5 @@
+Section = utilizada para separar assuntos, Ex ( informação sobre time A fica em uma section, sobre o time B fica em outra sectio)
+
+Article = onde fica o conteúdo principal do site, Ex ( blog, comentário, notícia)
+
+Aside = onde fica o conteúdo secundário do site, Ex ( )

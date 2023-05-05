@@ -1,0 +1,32 @@
+Exemplo:
+
+
+<div> Texto 1  </div>
+
+<div> Texto 2  </div>
+
+<div> Texto 3  </div>
+
+<div> Texto 4  </div>
+
+<div> Texto 5  </div>
+
+
+Se eu quiser modificar apenas a div 3, inserir o seguinte código no css
+
+
+div:nth-chield(3){
+	
+	Configurações;
+
+}
+
+
+
+Se eu quiser modificar apenas a div 4, inserir o seguinte código no css
+
+div:nth-chield(4){
+	
+	Configurações;
+
+}

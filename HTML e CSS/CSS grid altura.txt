@@ -1,0 +1,28 @@
+Para definir a altura padrão de todas as grids utilize o código abaixo:
+
+
+.container{
+
+	grid-auto-rows: minmax (valor minimo, valor maximo);
+
+}
+
+
+Exemplo:
+
+.container{
+
+	grid-auto-rows:minmax (50px, auto); deixei auto, porque se eu definir um valor fixo e o conteudo dentro da div for maior a div ira quebar.
+
+}
+
+podemos utilizar esse esquema com o repeat.
+
+
+Exemplo:
+
+.container{
+
+	grid-template-columns: repeat( 4, minmax(100px, 300px))
+
+}

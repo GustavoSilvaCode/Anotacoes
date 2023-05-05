@@ -1,0 +1,30 @@
+Digite no css
+
+
+a[href*= "o nome que você quiser"]{
+
+
+	Configurações;
+}
+
+Isso vai editar todos os href que possuam o nome inserido acima no link .
+
+
+
+MODIFICAR ITENS QUE COMECEM COM A PALAVRA "X".
+
+
+a [href~= "X"]{
+
+	Configurações;
+
+}
+
+
+MODIFICAR ITENS QUE TERMINAM COM A PALAVRA "X".
+
+a[href$= "X"]{
+
+	Configurações;
+
+}

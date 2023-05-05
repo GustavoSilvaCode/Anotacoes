@@ -1,0 +1,22 @@
+Exemplo:
+
+<div>   </div
+<div>   </div
+<div>   </div
+<div>   </div
+
+
+Aplicar modificação na primeira e na ultima div
+
+
+div:first-chield{
+
+	Configurações;
+}
+
+
+div:last-chield{
+
+	Configurações;
+	
+}

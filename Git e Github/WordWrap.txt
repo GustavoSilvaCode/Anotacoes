@@ -1,0 +1,6 @@
+Essa tag é utilizada para quebra de texto, dessa maneira todo o texto fica dentro da div, sem estourar a borda
+
+>>Adicione a tag dentro da class
+
+
+word-wrap: break-word;

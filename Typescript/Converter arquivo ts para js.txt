@@ -1,0 +1,16 @@
+No seu projeto deve exirtir as seguintes pastas
+
+Public e src
+
+Public = ficarão os arquivos que serão enviados para o navegador
+
+src= onde fica o ts
+
+
+Dentro da pasta que contem ambas as pasta faça isso:
+
+-Abrir terminal
+
+-Digitar:      tsc src/script.ts --outDir public
+
+-Isso vai converter seu ts e criar um arquivo js na pasta public 

@@ -1,0 +1,29 @@
+== mais liberal
+
+
+=== mais restritivo 
+
+
+Exemplo:
+
+let idade = "20";
+
+	if (idade == 20){	
+
+	console.log('Você tem 20 anos');
+}
+
+
+No exemplo acima eu coloco o "20" (uma string) e no if eu utilizo 20 (um number), mas utilizando == o código será executado mesmoa assim. Porque ele é mais flexivel.
+
+
+
+let idade = "20";
+
+	if (idade === 20){	
+
+	console.log('Você tem 20 anos');
+}
+
+
+o código não será executado, porque no let tem uma string e no if tem um number,  para o código ser executado ambos devem ser iguais.

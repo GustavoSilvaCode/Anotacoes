@@ -1,0 +1,23 @@
+Comando utilizado para obter informações do banco de dados.
+
+
+Como utilizar o comando para obter os "produtos" cadastrados: 
+
+Vá na aba "Consulta" do Heidi Sql e insira o seguinte comando:
+
+SELECT * FROM produtos;
+
+e pressione a tecla F9 do teclado ou clique no simbolo de play lá em cima!
+
+
+Estrutura do comando:
+
+SELECT o que vc quer selecionar FROM  onde está localizado 
+
+Exemplo:
+
+SELECT id,nome FROM produtos;
+
+SELECT nome FROM produtos;
+
+SELECT * FROM produtos;

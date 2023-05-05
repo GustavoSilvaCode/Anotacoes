@@ -1,0 +1,30 @@
+Condicionais no if / else
+
+
+> maior que
+
+< menor que
+
+>= maior ou igual a
+
+<= menor ou igual a
+
+== igual a	(mais flexivel)
+
+=== igual a (menos flexivel)
+
+!= Diferente
+
+
+
+
+Exemplo:::
+
+
+let idade = 10;
+
+if (idade>=18){
+    console.log(`${nomeCompleto} é maior de idade`);
+} else{
+    console.log(`${nomeCompleto + ' meu bebe'} não é maior de idade`);
+}

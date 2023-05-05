@@ -1,0 +1,48 @@
+Existem várias maneiras de procurar um elemento no console.
+
+Exemplos:
+
+Para pesquisar uma tag
+Escreva no console:
+
+document.getElementsBy
+
+Após escrever isso o console mostrará maneiras de pesquisar o item desejado.
+
+ex:
+
+document.getElementsById
+
+Depois de selecionar o método de procura, adicione ("")no final. Ficará da seguinte maneira.
+
+document.getElementsById("")
+
+Dentro das aspas você digita o que deseja procurar.
+
+No caso acima estamos procurando um ID. Dentro do CSS o ID é marcado pelo # e o nome do id,
+mas quando utilizamos o document.get não precisamos utilizar o # para pesquisar, usamos apenas o nome do id.
+
+Imagina que existe um id chamado #teste.
+
+Se for procurar esse id no console teremos que digitar o seguinte:
+
+document.getElementsById("teste")
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Outra maneira é utilizar o document.querySelector
+
+Assim não é preciso selecionar o método de pesquisa, utilizasse do mesmo modo que fica no html ou css
+
+Caso houvesse necessidade de pesquisar o id acima #teste utilizando o querySelector ficaria da seguinte maneira.
+
+document.querySelector("#teste")
+
+
+Caso fosse pesquisar a class bebida, seria assim:
+
+document.querySelector(".bebida")
+
+
+
+

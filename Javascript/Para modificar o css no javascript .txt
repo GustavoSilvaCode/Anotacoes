@@ -1,0 +1,6 @@
+Para modificar o css no javascript >
+
+
+digite a variavel  exemplo: li
+
+li.style.o que voce quer modificar = a modificação

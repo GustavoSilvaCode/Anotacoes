@@ -1,0 +1,43 @@
+Códigos para decorar no Git
+
+git init = Utilizado para criar uma psta com configurações do git
+
+
+git status = mostra quais arquivos estão na pasta git 
+
+
+git add "nome do arquivo" = adiciona 1 aquivo da pasta ao controole de versão.
+
+
+git add . = adiciona todos os arquivos pendentes ao controle de versão.
+
+
+git commit -m "Comente sobre o que está sendo adicionado"
+
+
+git config --global user.email "ukoruja@gmail.com"
+
+
+git config --global user.name "Gustavo Silva"
+
+
+Vá até o repositório no github e copie a url
+
+
+git remote add origin COLAR O URL COPIADA ( BOTAO DIREITO DO MOUSE  + CLICAR EM PASTE )
+
+
+git push 
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Como consultar versão do git <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+git reflog
+
+
+>>>>>>>>>>>>>>>>>>>>> Como voltar a uma versão anterior, caso algum erro seja cometido <<<<<<<<<<<<<<<<<<<<<<
+
+Após digitar o código ( git reflog ) copie o número da versão que deseja voltar e cole no cógido abaixo
+
+git reset --hard ( cole ou digiteo o código )

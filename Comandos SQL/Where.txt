@@ -1,0 +1,13 @@
+Comando utilizado para filtrar.
+
+Estrutura:
+
+SELECT * FROM produtos WHERE id_fornecedores = 6;
+
+Nesse comando o Heidi SQL irá filtrar os produtos que possuem o id = 6 e exibirá na tela todas as informações daqueles produtos.
+
+Para procurar um nome, o mesmo deve estar entre aspas.
+
+Ex:
+
+Select * FROM usuarios WHERE nome = "Gustavo";

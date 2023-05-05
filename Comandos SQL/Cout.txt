@@ -1,0 +1,10 @@
+Conta quantos itens tem na área desejada
+
+EX:
+
+SELECT COUNT (*) FROM produtos;
+
+
+Comando mostrara quantos itens tem na área produtos
+
+SELECT COUNT (*) AS contagem FROM produtos

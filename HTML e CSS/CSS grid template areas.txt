@@ -1,0 +1,21 @@
+Posiciona os itens da maneira que você digitar no css
+
+Vai lá no container e adiciona a tag grid-template-areas
+
+e faz isso daqui::::
+
+
+
+.container{
+
+	display: grid;
+
+	grid-template-columns: repeat(3, 1fr);
+
+	grid-gap:10px;
+
+	grid-template-areas:
+
+		"item1 item1"
+		"item 2 item 3"
+		"item 4 item 4"

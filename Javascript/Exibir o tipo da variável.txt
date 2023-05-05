@@ -1,0 +1,11 @@
+Adiciona typeof antes da variavel desejada no console.log
+
+
+
+let nome = ''Gustavo
+
+
+console.log(typeof nome)
+
+
+Assim será exibido o tipo da variável nome = object

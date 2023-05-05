@@ -1,0 +1,46 @@
+No CSS é possível alterar as configurações dos itens através dos atributos.
+
+
+Exemplo:
+
+
+Código:
+
+
+<input type="text" name="username"  required/>
+
+
+No código a cima o atributo é o REQUIRED.
+
+
+>>>>>para modificar todo codigo que tenha o atributo REQUIRED utilizamos o seguinte código
+
+
+
+
+[required]{
+
+	aqui digitamos as configuraçoes;
+
+}
+
+
+
+>>>>>>Se quiser editar todos que os input que sejam TYPE="TEXT". NÃO PRECISA colocar entre ASPAS, quando é no TYPE.
+
+input[type=text]{
+
+	aqui digitamos as configuraçoes;
+
+}
+
+
+>>>>>>Se quiser editar todos que os input que sejam NAME="user". quando é name PRECISA	 colocar entre ASPAS
+
+
+input[name="user"]{
+
+
+	aqui digitamos as configurações;
+
+}

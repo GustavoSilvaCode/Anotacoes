@@ -1,0 +1,15 @@
+Estados do link <a>
+
+Quando eu colocar no css a tag
+
+
+>>> .link : hover <<<
+
+A alteração será realizada quando eu passar o mouse em cima d link.
+Exemplo: Supondo que eu programei a cor verde, quando eu passar o mouse em cima do link a cor do link mudará para verde.
+
+
+
+>>> .link : visited <<<
+
+A alteração do link acontecerá depois de clicar nele.

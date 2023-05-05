@@ -1,0 +1,7 @@
+< video width = "largura x"  height = "altura y" >  
+
+
+< source src ="link do video"  type = "video/mp4" >
+
+
+</video>

@@ -1,0 +1,6 @@
+let nomeCompleto = { nome: 'Gustavo', idade:19}
+
+ou
+
+
+let lista = ['ovo', 'massa', 'bolo']

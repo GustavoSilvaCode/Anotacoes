@@ -1,0 +1,14 @@
+And = e
+
+Or = ou
+
+Exemplo:
+
+Selecione as blusas que possuem a cor vermelha ou preto.
+
+SELECT * FROM blusas WHERE corblusa = vermelho OR corblusa = preto;
+
+
+Selecione as blusas que possuem a cor verde e amarela.
+
+SELECT * FROM blusas WHERE corblusa = verde AND corblusa = amarela;

@@ -1,0 +1,7 @@
+Exibe a média dos itens selecionados
+
+EX:
+
+SELECT AVG(preco) AS(media) FROM produtos; (EXIBE A MEDIA)
+
+SELECT AVG(preco) AS(media),COUNT(*) AS total FROM produtos; (MEDIA e TOTAL de ITENS)

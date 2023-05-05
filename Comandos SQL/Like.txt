@@ -1,0 +1,8 @@
+Utilizado para procurar nomes compostos.
+
+
+Exemplo:
+
+SELECT * FROM usuarios WHERE nome LIKE "Andre%";
+
+Com esse comando será realizado o filtro de todos os nomes que começam com André.

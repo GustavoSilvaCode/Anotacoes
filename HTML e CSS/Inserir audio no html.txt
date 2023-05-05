@@ -1,0 +1,11 @@
+<audio controls preload>
+
+<source src = " Link do audio " type = " audio/mpeg">
+
+</audio>
+
+
+
+
+
+o comando controls preload pode ser substituido por controls autoplay, para dar play no audio assim que o usuario entrar na página.

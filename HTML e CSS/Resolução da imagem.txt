@@ -1,0 +1,10 @@
+Melhorar resolução da imagem no CSS
+
+img{	
+	width: tamanho qualquer
+
+	height: tamanho qualquer
+
+	object-fit: cover ( corta a imagem, com foco no meio )
+	
+}

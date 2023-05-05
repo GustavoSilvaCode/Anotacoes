@@ -1,0 +1,7 @@
+Tipos de borda CSS
+
+> solid = uma linha grossa 
+
+> dotted = borda pontilhada
+
+> dashed = vários tracinhos

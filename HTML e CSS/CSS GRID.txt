@@ -1,0 +1,23 @@
+Essa propriedade é utlizada para organizar o conteúdo de uma maneira diferenciada kkk
+
+para isso é necessário adicionar o display:grid no css dentro da div que você quer que se coporte dessa maneira (grid).
+
+A propriedade utilizada para definir o numero de colunas que o grid irá exibir é grid-template-columns, nela você pode definir quantas colunas e também o tamanho de cada uma. 
+
+Para modificar as linhas utilizamos o grid-template-rows
+
+Também utilizasse o grid-gap para dar um espaçamento entre linhas e colunas.
+
+Exemplo dessa aplicação
+
+.container{
+
+
+	display:grid;
+	
+	grid-template-columns: 100px 100px 100px; (aqui você quer que apareçam 3 colunas com 100px)
+
+	grid-template-rows: 100px 200px (altura da linha, aqui a primeire linha vai ter 100px e a segundo terá 200px)
+
+	grid-gap: 10px; (espaçamento de 10px entre linhas e colunas)
+} 

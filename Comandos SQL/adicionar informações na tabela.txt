@@ -1,0 +1,8 @@
+EX:
+
+INSERT INTO usuarios (nome,datacadastro) VALUES ("Felipe","2020-12-30"),("Adalbertolindoson","2000-01-03");
+
+
+Adicionando com a data atual
+
+INSERT INTO usuarios (nome,datacadastro) VALUES ("Felipe", NOW() );
